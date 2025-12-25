@@ -6,7 +6,7 @@
 
 struct ogrenci {
     char soyadi[20],adi[20],bolumu[30],cinsiyet,dogum_yeri[20];
-    int yasi
+    int yasi;
     long long no, telefon;
 };
 
